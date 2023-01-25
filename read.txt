@@ -1,0 +1,4 @@
+login: admin
+senha: admin
+
+para validar a tela de login, são necessários esses parâmetros, caso contrário, não será validado.
